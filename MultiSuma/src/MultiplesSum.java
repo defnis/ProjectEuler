@@ -1,3 +1,4 @@
+// Encontrar todos los multiplos de 3 y 5 hasta 1000 y luego sumar todos juntos.
 public class MultiplesSum {
     public static void main(String[] args) {
         int limit = 1000;

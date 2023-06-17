@@ -1,3 +1,6 @@
+// El factor primo de 13195 son 5, 7, 13 y 29. 
+// Realizar un programa en Java que calcule el ultimo factor primo de 600851475143
+
 public class UltimoPrimo {
 
     public static void main(String[] args) {
